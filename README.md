@@ -1,7 +1,7 @@
 # Learning Management System (LMS)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/capi-yo/learning-management-system.git)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://github.com/capi-yo/learning-management-system/blob/main/learning%20management%20system%20demo.mp4)))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://github.com/capi-yo/learning-management-system/blob/main/learning%20management%20system%20demo.mp4)
 
 A modern, interactive **Learning Management System** (LMS) built with **React, TypeScript, and Vite**, designed to provide a seamless learning experience with courses, interactive content, and analytics.
 
