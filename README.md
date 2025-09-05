@@ -41,7 +41,7 @@ A modern, interactive **Learning Management System** (LMS) built with **React, T
 
 ```bash
 git clone https://github.com/capi-yo/learning-management-system.git
-cd lms-project5
+cd lms-project2
 ```
 
 2. **Install dependencies:**
