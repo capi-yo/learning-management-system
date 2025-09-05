@@ -1,7 +1,7 @@
 # Learning Management System (LMS)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/capi-yo/learning-management-system.git))
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)]((https://learning-management-system-eight-psi.vercel.app/))
+[![GitHub Repo](https://github.com/capi-yo/learning-management-system.git))
+[![Live Demo]((https://learning-management-system-eight-psi.vercel.app/))
 
 A modern, interactive **Learning Management System** (LMS) built with **React, TypeScript, and Vite**, designed to provide a seamless learning experience with courses, interactive content, and analytics.
 
@@ -54,7 +54,7 @@ npm install
    Create a `.env` file and add:
 
 ```
-VITE_SUPABASE_URL=[your_supabase_url](https://yozhbbaifultgkumpjrc.supabase.co)
+VITE_SUPABASE_URL=(https://yozhbbaifultgkumpjrc.supabase.co)
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlvemhiYmFpZnVsdGdrdW1wanJjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY3NjY0OTIsImV4cCI6MjA3MjM0MjQ5Mn0.eBnvu53MVeCmZf_J39ssP394cEDSsGozvPz687TgFYk
 ```
 
